@@ -3,7 +3,7 @@ name: Deploy Hexo Blog to OSS
 on:
   push:
     branches:
-      - main   # 你的主分支，如果是 master 就改掉
+      - main
 
 jobs:
   build-and-deploy:
@@ -16,10 +16,13 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 18   # Node 18 稳定
 
       - name: Install dependencies
-        run: npm install --legacy-peer-deps
+        run: |
+          npm install --legacy-peer-deps
+          # 强制安装 strip-ansi v6
+          npm install strip-ansi@6.0.1 --save-exact
 
       - name: Build Hexo
         run: npm run build
