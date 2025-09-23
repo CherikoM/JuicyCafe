@@ -1,0 +1,36 @@
+name: Deploy Hexo Blog to OSS
+
+on:
+  push:
+    branches:
+      - main   # 你的主分支，如果是 master 就改掉
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Hexo
+        run: npm run build
+
+      - name: Install ossutil
+        run: |
+          curl -o ossutil64 https://gosspublic.alicdn.com/ossutil/1.7.17/ossutil64
+          chmod +x ossutil64
+          sudo mv ossutil64 /usr/local/bin/ossutil
+
+      - name: Upload to OSS
+        run: |
+          ossutil config -e ${{ secrets.OSS_ENDPOINT }} -i ${{ secrets.OSS_ID }} -k ${{ secrets.OSS_SECRET }}
+          ossutil cp -r ./public oss://${{ secrets.OSS_BUCKET }}/ --update --force
