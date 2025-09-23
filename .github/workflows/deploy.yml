@@ -3,36 +3,49 @@ name: Deploy Hexo Blog to OSS
 on:
   push:
     branches:
-      - main
+      - main   # 如果你的主分支不是 main，请改成 master 或其他分支
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ 拉取仓库
       - name: Checkout
         uses: actions/checkout@v3
 
+      # 2️⃣ 设置 Node 版本
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18   # Node 18 稳定
+          node-version: 18
 
-      - name: Install dependencies
+      # 3️⃣ 安装 Hexo 项目依赖
+      - name: Install main dependencies
         run: |
           npm install --legacy-peer-deps
-          # 强制安装 strip-ansi v6
+          # 强制安装 strip-ansi v6，避免 ESM 错误
           npm install strip-ansi@6.0.1 --save-exact
 
+      # 4️⃣ 安装 Butterfly 主题依赖（支持自定义标签）
+      - name: Install Butterfly theme dependencies
+        run: |
+          cd themes/butterfly
+          npm install --legacy-peer-deps
+          cd ../..
+
+      # 5️⃣ 构建 Hexo
       - name: Build Hexo
         run: npm run build
 
+      # 6️⃣ 安装 OSS 上传工具
       - name: Install ossutil
         run: |
           curl -o ossutil64 https://gosspublic.alicdn.com/ossutil/1.7.17/ossutil64
           chmod +x ossutil64
           sudo mv ossutil64 /usr/local/bin/ossutil
 
+      # 7️⃣ 上传到阿里云 OSS
       - name: Upload to OSS
         run: |
           ossutil config -e ${{ secrets.OSS_ENDPOINT }} -i ${{ secrets.OSS_ID }} -k ${{ secrets.OSS_SECRET }}
