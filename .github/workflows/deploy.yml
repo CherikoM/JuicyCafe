@@ -13,6 +13,8 @@ jobs:
       # 1️⃣ 拉取仓库
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          submodules: recursive
 
       # 2️⃣ 设置 Node 版本
       - name: Setup Node.js
