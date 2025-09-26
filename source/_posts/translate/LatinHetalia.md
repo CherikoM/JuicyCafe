@@ -59,34 +59,34 @@ Latin Hetalia社区包括LiveJournal这个平台本身都已经冷了，但Latin
 现在真实存在的各拉美国家（没有小安德列斯之类的微生物）
 
 <div class="gallery-group-main">
-{% galleryGroup '阿根廷' '马丁·埃尔南德斯' '/translate/LatinHetalia/Argentina' https://lh-ar.carrd.co/assets/images/image01.png %}
-{% galleryGroup '伯利兹' '本雅明·斯派洛·杨' '/translate/LatinHetalia/Belice' https://lh-be.carrd.co/assets/images/image01.png %}
-{% galleryGroup '玻利维亚' '胡里奥·帕斯' '/translate/LatinHetalia/Bolivia' https://lh-bo.carrd.co/assets/images/image01.png %}
-{% galleryGroup '巴西' '卢西亚诺·达席尔瓦' '/translate/LatinHetalia/Brazil' https://lh-br-es.carrd.co/assets/images/image01.png %}
-{% galleryGroup '智利' '何塞·曼努埃尔·冈萨雷斯·罗德里格斯' '/translate/LatinHetalia/Chile' https://lh-cl.carrd.co/assets/images/image01.png %}
-{% galleryGroup '哥伦比亚' '卡塔琳娜·戈麦斯' '/translate/LatinHetalia/Colombia' https://lh-co.carrd.co/assets/images/image01.png %}
-{% galleryGroup '哥斯达黎加' '费尔南达·巴斯克斯·科罗纳多' '/translate/LatinHetalia/Costa Rica' https://lh-cr.carrd.co/assets/images/image01.png %}
-{% galleryGroup '厄瓜多尔' '弗朗西斯科·布尔戈斯·托雷斯' '/translate/LatinHetalia/Ecuador' https://lh-ec.carrd.co/assets/images/image01.png %}
-{% galleryGroup '萨尔瓦多' '雨果·萨尔瓦多·阿尔瓦罗·格雷罗' '/translate/LatinHetalia/El Salvador' https://lh-sv.carrd.co/assets/images/image01.png %}
-{% galleryGroup '危地马拉' '拉斐尔·帕拉西奥斯·弗洛雷斯' '/translate/LatinHetalia/Guatemala' https://lh-gt.carrd.co/assets/images/image01.png %}
-{% galleryGroup '法属圭亚那' '阿贝尔·蒙图法尔' '/translate/LatinHetalia/Guyana Francesa' https://lh-gf.carrd.co/assets/images/image01.png %}
-{% galleryGroup '圭亚那' '亚伦·罗德尼' '/translate/LatinHetalia/Guyana' https://lh-gy.carrd.co/assets/images/image01.png %}
-{% galleryGroup '海地' '勒内·奥格' '/translate/LatinHetalia/Haiti' https://lh-ht.carrd.co/assets/images/image04.png %}
-{% galleryGroup '洪都拉斯' '路易斯·安赫尔·莫拉桑·德尔瓦莱' '/translate/LatinHetalia/Honduras' https://lh-hn.carrd.co/assets/images/image01.png %}
-{% galleryGroup '牙买加' '亚历山大·坎贝尔·马利' '/translate/LatinHetalia/Jamaica' https://lh-jm.carrd.co/assets/images/image01.png %}
-{% galleryGroup '马尔维纳斯' '维多利亚·阿尔科塔' '/translate/LatinHetalia/Malvinas' https://lh-fk.carrd.co/assets/images/image02.png %}
-{% galleryGroup '北墨西哥' '胡安·佩德罗·桑切斯' '/translate/LatinHetalia/Mexico (North)' https://lh-mxn.carrd.co/assets/images/image01.png %}
-{% galleryGroup '南墨西哥' '伊泽尔·桑切斯' '/translate/LatinHetalia/Mexico (South)' https://lh-mxs.carrd.co/assets/images/image01.png %}
-{% galleryGroup '尼加拉瓜' '阿玛亚·卡梅尔·卡斯蒂略' '/translate/LatinHetalia/Nicaragua' https://lh-ni.carrd.co/assets/images/image01.png %}
-{% galleryGroup '巴拿马' '罗德里戈·阿亚拉·达维拉' '/translate/LatinHetalia/Panama' https://lh-pa.carrd.co/assets/images/image01.png %}
-{% galleryGroup '巴拉圭' '丹尼尔·德·伊拉拉' '/translate/LatinHetalia/Paraguay' https://lh-py.carrd.co/assets/images/image01.png %}
-{% galleryGroup '秘鲁' '米格尔·亚历杭德罗·普拉多·维尔卡' '/translate/LatinHetalia/Peru' https://lh-pe.carrd.co/assets/images/image01.png %}
-{% galleryGroup '波多黎各' '布兰卡·鲁伊斯' '/translate/LatinHetalia/Puerto Rico' https://lh-pr.carrd.co/assets/images/image01.png %}
-{% galleryGroup '多米尼加' '格雷戈里奥·杜阿尔特·米拉巴尔' '/translate/LatinHetalia/R.D.' https://lh-do.carrd.co/assets/images/image01.png %}
-{% galleryGroup '复活节岛' '蒂亚蕾·拉哈罗阿' '/translate/LatinHetalia/Rapa Nui' https://lh-rn.carrd.co/assets/images/image01.png %}
-{% galleryGroup '苏里南' '杰登·戈利特' '/translate/LatinHetalia/Surinam' https://lh-sr.carrd.co/assets/images/image01.png %}
-{% galleryGroup '乌拉圭' '塞巴斯蒂安·阿蒂加斯' '/translate/LatinHetalia/Uruguay' https://lh-uy.carrd.co/assets/images/image01.png %}
-{% galleryGroup '委内瑞拉' '玛丽亚·米兰达·德拉科罗莫托·帕埃斯' '/translate/LatinHetalia/Venezuela' https://lh-ve.carrd.co/assets/images/image01.png %}
+{% galleryGroup '阿根廷' '马丁·埃尔南德斯' '/translate/LatinHetalia/Argentina.html' https://lh-ar.carrd.co/assets/images/image01.png %}
+{% galleryGroup '伯利兹' '本雅明·斯派洛·杨' '/translate/LatinHetalia/Belice.html' https://lh-be.carrd.co/assets/images/image01.png %}
+{% galleryGroup '玻利维亚' '胡里奥·帕斯' '/translate/LatinHetalia/Bolivia.html' https://lh-bo.carrd.co/assets/images/image01.png %}
+{% galleryGroup '巴西' '卢西亚诺·达席尔瓦' '/translate/LatinHetalia/Brazil.html' https://lh-br-es.carrd.co/assets/images/image01.png %}
+{% galleryGroup '智利' '何塞·曼努埃尔·冈萨雷斯·罗德里格斯' '/translate/LatinHetalia/Chile.html' https://lh-cl.carrd.co/assets/images/image01.png %}
+{% galleryGroup '哥伦比亚' '卡塔琳娜·戈麦斯' '/translate/LatinHetalia/Colombia.html' https://lh-co.carrd.co/assets/images/image01.png %}
+{% galleryGroup '哥斯达黎加' '费尔南达·巴斯克斯·科罗纳多' '/translate/LatinHetalia/Costa Rica.html' https://lh-cr.carrd.co/assets/images/image01.png %}
+{% galleryGroup '厄瓜多尔' '弗朗西斯科·布尔戈斯·托雷斯' '/translate/LatinHetalia/Ecuador.html' https://lh-ec.carrd.co/assets/images/image01.png %}
+{% galleryGroup '萨尔瓦多' '雨果·萨尔瓦多·阿尔瓦罗·格雷罗' '/translate/LatinHetalia/El Salvador.html' https://lh-sv.carrd.co/assets/images/image01.png %}
+{% galleryGroup '危地马拉' '拉斐尔·帕拉西奥斯·弗洛雷斯' '/translate/LatinHetalia/Guatemala.html' https://lh-gt.carrd.co/assets/images/image01.png %}
+{% galleryGroup '法属圭亚那' '阿贝尔·蒙图法尔' '/translate/LatinHetalia/Guyana Francesa.html' https://lh-gf.carrd.co/assets/images/image01.png %}
+{% galleryGroup '圭亚那' '亚伦·罗德尼' '/translate/LatinHetalia/Guyana.html' https://lh-gy.carrd.co/assets/images/image01.png %}
+{% galleryGroup '海地' '勒内·奥格' '/translate/LatinHetalia/Haiti.html' https://lh-ht.carrd.co/assets/images/image04.png %}
+{% galleryGroup '洪都拉斯' '路易斯·安赫尔·莫拉桑·德尔瓦莱' '/translate/LatinHetalia/Honduras.html' https://lh-hn.carrd.co/assets/images/image01.png %}
+{% galleryGroup '牙买加' '亚历山大·坎贝尔·马利' '/translate/LatinHetalia/Jamaica.html' https://lh-jm.carrd.co/assets/images/image01.png %}
+{% galleryGroup '马尔维纳斯' '维多利亚·阿尔科塔' '/translate/LatinHetalia/Malvinas.html' https://lh-fk.carrd.co/assets/images/image02.png %}
+{% galleryGroup '北墨西哥' '胡安·佩德罗·桑切斯' '/translate/LatinHetalia/Mexico (North).html' https://lh-mxn.carrd.co/assets/images/image01.png %}
+{% galleryGroup '南墨西哥' '伊泽尔·桑切斯' '/translate/LatinHetalia/Mexico (South).html' https://lh-mxs.carrd.co/assets/images/image01.png %}
+{% galleryGroup '尼加拉瓜' '阿玛亚·卡梅尔·卡斯蒂略' '/translate/LatinHetalia/Nicaragua.html' https://lh-ni.carrd.co/assets/images/image01.png %}
+{% galleryGroup '巴拿马' '罗德里戈·阿亚拉·达维拉' '/translate/LatinHetalia/Panama.html' https://lh-pa.carrd.co/assets/images/image01.png %}
+{% galleryGroup '巴拉圭' '丹尼尔·德·伊拉拉' '/translate/LatinHetalia/Paraguay.html' https://lh-py.carrd.co/assets/images/image01.png %}
+{% galleryGroup '秘鲁' '米格尔·亚历杭德罗·普拉多·维尔卡' '/translate/LatinHetalia/Peru.html' https://lh-pe.carrd.co/assets/images/image01.png %}
+{% galleryGroup '波多黎各' '布兰卡·鲁伊斯' '/translate/LatinHetalia/Puerto Rico.html' https://lh-pr.carrd.co/assets/images/image01.png %}
+{% galleryGroup '多米尼加' '格雷戈里奥·杜阿尔特·米拉巴尔' '/translate/LatinHetalia/R.D..html' https://lh-do.carrd.co/assets/images/image01.png %}
+{% galleryGroup '复活节岛' '蒂亚蕾·拉哈罗阿' '/translate/LatinHetalia/Rapa Nui.html' https://lh-rn.carrd.co/assets/images/image01.png %}
+{% galleryGroup '苏里南' '杰登·戈利特' '/translate/LatinHetalia/Surinam.html' https://lh-sr.carrd.co/assets/images/image01.png %}
+{% galleryGroup '乌拉圭' '塞巴斯蒂安·阿蒂加斯' '/translate/LatinHetalia/Uruguay.html' https://lh-uy.carrd.co/assets/images/image01.png %}
+{% galleryGroup '委内瑞拉' '玛丽亚·米兰达·德拉科罗莫托·帕埃斯' '/translate/LatinHetalia/Venezuela.html' https://lh-ve.carrd.co/assets/images/image01.png %}
 </div>
 
 ### 祖先角色
@@ -98,13 +98,13 @@ Latin Hetalia社区包括LiveJournal这个平台本身都已经冷了，但Latin
 不要吐槽死亡后还留有灵体这种设定，黑塔利亚原作中的罗马基酱不也是这样的吗（
 
 <div class="gallery-group-main">
-{% galleryGroup '艾马拉' '西萨·马马尼' '/translate/LatinHetalia/Aymara' https://lh-aymara.carrd.co/assets/images/image01.jpg %}
-{% galleryGroup '阿兹特克' '考特津' '/translate/LatinHetalia/Aztec' https://lh-azteca.carrd.co/assets/images/image01.jpg %}
-{% galleryGroup '加勒比' '名字不明（）' '/translate/LatinHetalia/Caribe' https://lh-caribe.carrd.co/assets/images/image01.jpg %}
-{% galleryGroup '查鲁亚' '塞纳奎' '/translate/LatinHetalia/Charrua' https://lh-charrua.carrd.co/assets/images/image01.jpg %}
-{% galleryGroup '瓜拉尼' '克拉纳' '/translate/LatinHetalia/Guarani' https://lh-guarani.carrd.co/assets/images/image01.jpg %}
-{% galleryGroup '马普切' '弗雷西亚' '/translate/LatinHetalia/Mapuche' https://lh-mapuche.carrd.co/assets/images/image01.jpg %}
-{% galleryGroup '潘帕' '皮亚雷·古尔' '/translate/LatinHetalia/Pampa' https://lh-pampa.carrd.co/assets/images/image01.jpg %}
-{% galleryGroup '泰诺' '尤卡胡·巴瓜·毛罗科蒂' '/translate/LatinHetalia/Taino' https://lh-taino.carrd.co/assets/images/image01.jpg %}
-{% galleryGroup '图皮' '伊拉谢马' '/translate/LatinHetalia/Tupi' https://lh-tupi.carrd.co/assets/images/image01.jpg %}
+{% galleryGroup '艾马拉' '西萨·马马尼' '/translate/LatinHetalia/Aymara.html' https://lh-aymara.carrd.co/assets/images/image01.jpg %}
+{% galleryGroup '阿兹特克' '考特津' '/translate/LatinHetalia/Aztec.html' https://lh-azteca.carrd.co/assets/images/image01.jpg %}
+{% galleryGroup '加勒比' '名字不明（）' '/translate/LatinHetalia/Caribe.html' https://lh-caribe.carrd.co/assets/images/image01.jpg %}
+{% galleryGroup '查鲁亚' '塞纳奎' '/translate/LatinHetalia/Charrua.html' https://lh-charrua.carrd.co/assets/images/image01.jpg %}
+{% galleryGroup '瓜拉尼' '克拉纳' '/translate/LatinHetalia/Guarani.html' https://lh-guarani.carrd.co/assets/images/image01.jpg %}
+{% galleryGroup '马普切' '弗雷西亚' '/translate/LatinHetalia/Mapuche.html' https://lh-mapuche.carrd.co/assets/images/image01.jpg %}
+{% galleryGroup '潘帕' '皮亚雷·古尔' '/translate/LatinHetalia/Pampa.html' https://lh-pampa.carrd.co/assets/images/image01.jpg %}
+{% galleryGroup '泰诺' '尤卡胡·巴瓜·毛罗科蒂' '/translate/LatinHetalia/Taino.html' https://lh-taino.carrd.co/assets/images/image01.jpg %}
+{% galleryGroup '图皮' '伊拉谢马' '/translate/LatinHetalia/Tupi.html' https://lh-tupi.carrd.co/assets/images/image01.jpg %}
 </div>

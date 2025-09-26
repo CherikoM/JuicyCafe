@@ -7,7 +7,7 @@ hide: true
 ## 封面
 
 <div class="gallery-group-main">
-{% galleryGroup '微波炉的一些封面' '嘿嘿……炉子……嘿嘿……' '/gallery/collection/cover/microwaveCover' https://image.cheriko.fun/post/202305011825300.jpg %}
+{% galleryGroup '微波炉的一些封面' '嘿嘿……炉子……嘿嘿……' '/gallery/collection/cover/microwaveCover.html' https://image.cheriko.fun/post/202305011825300.jpg %}
 </div>
 
 
@@ -15,22 +15,22 @@ hide: true
 ## 表情
 
 <div class="gallery-group-main">
-{% galleryGroup 'HTF表情包' '和平的世界' '/gallery/collection/stamp/HTFstamp' https://image.cheriko.fun/post/202308081916537.png %}
-{% galleryGroup '拉丁黑塔角色gif' '可爱的捏' '/gallery/collection/stamp/LHgif' https://image.cheriko.fun/post/202406101055733.gif %}
+{% galleryGroup 'HTF表情包' '和平的世界' '/gallery/collection/stamp/HTFstamp.html' https://image.cheriko.fun/post/202308081916537.png %}
+{% galleryGroup '拉丁黑塔角色gif' '可爱的捏' '/gallery/collection/stamp/LHgif.html' https://image.cheriko.fun/post/202406101055733.gif %}
 </div>
 
 
 ## 漫画
 
 <div class="gallery-group-main">
-{% galleryGroup '政治罗盘球' '一半对一半，针不戳~' '/gallery/collection/comic/polcompball' https://image.cheriko.fun/post/202312121751537.png %}
+{% galleryGroup '政治罗盘球' '一半对一半，针不戳~' '/gallery/collection/comic/polcompball.html' https://image.cheriko.fun/post/202312121751537.png %}
 </div>
 
 ## 网上冲浪
 
 <div class="gallery-group-main">
-{% galleryGroup '社媒总结' '被扒老底了' '/gallery/collection/cheriko/summary' https://image.cheriko.fun/post/202405141244607.jpg %}
-{% galleryGroup '趣味测试' '图一乐' '/gallery/collection/cheriko/test' https://image.cheriko.fun/post/202308081731751.jpg %}
+{% galleryGroup '社媒总结' '被扒老底了' '/gallery/collection/cheriko/summary.html' https://image.cheriko.fun/post/202405141244607.jpg %}
+{% galleryGroup '趣味测试' '图一乐' '/gallery/collection/cheriko/test.html' https://image.cheriko.fun/post/202308081731751.jpg %}
 </div>
 
 
