@@ -47,6 +47,11 @@ jobs:
           chmod +x ossutil64
           sudo mv ossutil64 /usr/local/bin/ossutil
 
+      - name: Clear old files from OSS
+        run: ossutil64 rm -r -f oss://$OSS_BUCKET/
+        env:
+          OSS_BUCKET: ${{ secrets.OSS_BUCKET }}
+
       # 7️⃣ 上传到阿里云 OSS
       - name: Upload to OSS
         run: |
