@@ -128,8 +128,3 @@ sitemap:
 aplayer:
   meting: true
   asset_inject: false
-
-# 路径转为拼音
-permalink_pinyin:
-  enable: true
-  separator: '-'
