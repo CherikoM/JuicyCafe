@@ -14,7 +14,7 @@ email: bakabakaKikichan@gmail.com
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://cheriko.fun
+url: http://cheriko.cafe
 permalink: :title.html
 permalink_defaults:
 pretty_urls:

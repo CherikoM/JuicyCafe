@@ -1,6 +1,6 @@
 ---
 title: 菌团吧唧
-top_img: https://image.cheriko.fun/draw/202304292212131.png
+top_img: https://image.cheriko.cafe/draw/202304292212131.png
 ---
 
 2023年菌团3周年兼春节活动企划，有关自己做的一些东西
@@ -16,12 +16,12 @@ top_img: https://image.cheriko.fun/draw/202304292212131.png
 只发自己画的吧唧柄图，咱也不好意思发其他人画的哈（
 
 {% gallery true,220,10 %}
-![](https://image.cheriko.fun/draw/202304292212136.png)
-![](https://image.cheriko.fun/draw/202304292212135.png)
-![](https://image.cheriko.fun/draw/202304292212132.png)
-![](https://image.cheriko.fun/draw/202304292212133.png)
-![](https://image.cheriko.fun/draw/202304292212134.png)
-![](https://image.cheriko.fun/draw/202304292212131.png)
+![](https://image.cheriko.cafe/draw/202304292212136.png)
+![](https://image.cheriko.cafe/draw/202304292212135.png)
+![](https://image.cheriko.cafe/draw/202304292212132.png)
+![](https://image.cheriko.cafe/draw/202304292212133.png)
+![](https://image.cheriko.cafe/draw/202304292212134.png)
+![](https://image.cheriko.cafe/draw/202304292212131.png)
 {% endgallery %}
 
 ## 宣传图
@@ -29,10 +29,10 @@ top_img: https://image.cheriko.fun/draw/202304292212131.png
 一键查询我当时的精神状态
 
 {% gallery true,220,10 %}
-![](https://image.cheriko.fun/post/202405131129638.png)
-![](https://image.cheriko.fun/post/202405131129639.png)
-![](https://image.cheriko.fun/post/202405131129641.png)
-![](https://image.cheriko.fun/post/202405131129642.png)
-![](https://image.cheriko.fun/post/202405131129643.png)
-![](https://image.cheriko.fun/post/202405131129644.png)
+![](https://image.cheriko.cafe/post/202405131129638.png)
+![](https://image.cheriko.cafe/post/202405131129639.png)
+![](https://image.cheriko.cafe/post/202405131129641.png)
+![](https://image.cheriko.cafe/post/202405131129642.png)
+![](https://image.cheriko.cafe/post/202405131129643.png)
+![](https://image.cheriko.cafe/post/202405131129644.png)
 {% endgallery %}

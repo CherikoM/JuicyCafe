@@ -240,7 +240,7 @@ toc:
 post_copyright:
   enable: true
   decode: false
-  author_href: https://cheriko.fun
+  author_href: https://cheriko.cafe
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -626,7 +626,7 @@ valine:
 # Waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://comment.cheriko.fun
+  serverURL: https://comment.cheriko.cafe
   bg:
   # Use Waline pageview count as the page view count
   pageview: false
@@ -639,13 +639,13 @@ waline:
       - https://unpkg.com/@waline/emojis@1.2.0/bilibili
       - https://unpkg.com/@waline/emojis@1.2.0/tieba
       - https://unpkg.com/@waline/emojis@1.2.0/weibo
-      - https://image.cheriko.fun/emoji/htf_pretty
-      - https://image.cheriko.fun/emoji/htf_splendid
-      - https://image.cheriko.fun/emoji/htf_flaky
-      - https://image.cheriko.fun/emoji/htf_flippy
-      - https://image.cheriko.fun/emoji/htf_everyday
-      - https://image.cheriko.fun/emoji/htf_halloween
-      - https://image.cheriko.fun/emoji/htf_christmas
+      - https://image.cheriko.cafe/emoji/htf_pretty
+      - https://image.cheriko.cafe/emoji/htf_splendid
+      - https://image.cheriko.cafe/emoji/htf_flaky
+      - https://image.cheriko.cafe/emoji/htf_flippy
+      - https://image.cheriko.cafe/emoji/htf_everyday
+      - https://image.cheriko.cafe/emoji/htf_halloween
+      - https://image.cheriko.cafe/emoji/htf_christmas
 
 # Utterances
 # https://utteranc.es/

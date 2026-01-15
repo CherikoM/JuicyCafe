@@ -7,7 +7,7 @@ tags:
   - 黑塔利亚
   - 拉丁黑塔
   - 安利
-cover: https://image.cheriko.fun/post/202405121150439.jpg
+cover: https://image.cheriko.cafe/post/202405121150439.jpg
 ---
 
 {% note info modern %}

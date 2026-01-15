@@ -6,7 +6,7 @@ tags:
   - 安利
   - 电子音乐
   - Disciple
-cover: https://image.cheriko.fun/music/202304301559550.jpg
+cover: https://image.cheriko.cafe/music/202304301559550.jpg
 ---
 
 {% note info no-icon %}
@@ -55,7 +55,7 @@ US Dubstep显然属于US Bass体系
 
 ## Disciple是啥呀？
 
-![奠阴原神，启动！](https://image.cheriko.fun/post/202306251726504.jpg)
+![奠阴原神，启动！](https://image.cheriko.cafe/post/202306251726504.jpg)
 
 ### 简介
 
@@ -103,7 +103,7 @@ US Dubstep显然属于US Bass体系
 
 #### Dodge&Fuski
 
-![logo](https://image.cheriko.fun/post/202306241826022.png)
+![logo](https://image.cheriko.cafe/post/202306241826022.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8478393762)
 
@@ -116,7 +116,7 @@ US Dubstep显然属于US Bass体系
 
 #### Astronaut
 
-![logo](https://image.cheriko.fun/post/202306241826010.png)
+![logo](https://image.cheriko.cafe/post/202306241826010.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8485973836)
 
@@ -128,7 +128,7 @@ US Dubstep显然属于US Bass体系
 
 #### Barely Alive
 
-![logo](https://image.cheriko.fun/post/202306241826012.png)
+![logo](https://image.cheriko.cafe/post/202306241826012.png)
 
 [网易云歌单](https://music.163.com/playlist?id=7277271897)
 
@@ -143,7 +143,7 @@ US Dubstep显然属于US Bass体系
 
 #### Diamond Eyes
 
-![logo](https://image.cheriko.fun/post/202306241826017.png)
+![logo](https://image.cheriko.cafe/post/202306241826017.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8485837696)
 
@@ -153,7 +153,7 @@ US Dubstep显然属于US Bass体系
 
 #### Virtual Riot
 
-![logo](https://image.cheriko.fun/post/202306241826040.png)
+![logo](https://image.cheriko.cafe/post/202306241826040.png)
 
 [网易云歌单](https://music.163.com/playlist?id=7278224175)
 
@@ -168,7 +168,7 @@ US Dubstep显然属于US Bass体系
 
 #### Dubloadz
 
-![logo](https://image.cheriko.fun/post/202306241826019.png)
+![logo](https://image.cheriko.cafe/post/202306241826019.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8485774675)
 
@@ -182,7 +182,7 @@ US Dubstep显然属于US Bass体系
 
 #### Myro
 
-![logo](https://image.cheriko.fun/post/202306241826028.png)
+![logo](https://image.cheriko.cafe/post/202306241826028.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8480797466)
 
@@ -194,7 +194,7 @@ US Dubstep显然属于US Bass体系
 
 #### Fox Stevenson
 
-![logo](https://image.cheriko.fun/post/202306241826021.png)
+![logo](https://image.cheriko.cafe/post/202306241826021.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8494671473)
 
@@ -206,7 +206,7 @@ US Dubstep显然属于US Bass体系
 
 #### Oolacile
 
-![logo（这其实是他的旧logo，但是我没找到合适的新logo的素材）](https://image.cheriko.fun/post/202306241826031.png)
+![logo（这其实是他的旧logo，但是我没找到合适的新logo的素材）](https://image.cheriko.cafe/post/202306241826031.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8492346174)
 
@@ -217,7 +217,7 @@ US Dubstep显然属于US Bass体系
 
 #### PhaseOne
 
-![logo](https://image.cheriko.fun/post/202306241826034.png)
+![logo](https://image.cheriko.cafe/post/202306241826034.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8480773164)
 
@@ -229,7 +229,7 @@ US Dubstep显然属于US Bass体系
 
 #### The Others
 
-![logo](https://image.cheriko.fun/post/202306241826033.png)
+![logo](https://image.cheriko.cafe/post/202306241826033.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8506937806)
 
@@ -239,7 +239,7 @@ US Dubstep显然属于US Bass体系
 
 #### Truth
 
-![logo](https://image.cheriko.fun/post/202306241826037.png)
+![logo](https://image.cheriko.cafe/post/202306241826037.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8493341170)
 
@@ -249,7 +249,7 @@ US Dubstep显然属于US Bass体系
 
 #### 12th Planet
 
-![logo](https://image.cheriko.fun/post/202306241826009.png)
+![logo](https://image.cheriko.cafe/post/202306241826009.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8484728638)
 
@@ -263,7 +263,7 @@ US Dubstep显然属于US Bass体系
 
 #### Virus Syndicate
 
-![logo](https://image.cheriko.fun/post/202306241826039.png)
+![logo](https://image.cheriko.cafe/post/202306241826039.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8482447407)
 
@@ -275,7 +275,7 @@ US Dubstep显然属于US Bass体系
 
 #### Hatcha
 
-![logo](https://image.cheriko.fun/post/202306241826024.png)
+![logo](https://image.cheriko.cafe/post/202306241826024.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8486310191)
 
@@ -286,7 +286,7 @@ US Dubstep显然属于US Bass体系
 
 #### Eliminate
 
-![logo](https://image.cheriko.fun/post/202306241826029.png)
+![logo](https://image.cheriko.cafe/post/202306241826029.png)
 
 [网易云歌单](https://music.163.com/playlist?id=7277758114)
 
@@ -300,7 +300,7 @@ US Dubstep显然属于US Bass体系
 
 #### Panda Eyes
 
-![logo](https://image.cheriko.fun/post/202306241826035.png)
+![logo](https://image.cheriko.cafe/post/202306241826035.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8492661705)
 
@@ -314,7 +314,7 @@ US Dubstep显然属于US Bass体系
 
 #### MVRDA
 
-![logo](https://image.cheriko.fun/post/202306241826027.png)
+![logo](https://image.cheriko.cafe/post/202306241826027.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8489715365)
 
@@ -325,7 +325,7 @@ US Dubstep显然属于US Bass体系
 
 #### INFEKT
 
-![logo](https://image.cheriko.fun/post/202306241826025.png)
+![logo](https://image.cheriko.cafe/post/202306241826025.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8480638861)
 
@@ -337,7 +337,7 @@ US Dubstep显然属于US Bass体系
 
 #### Modestep
 
-![logo](https://image.cheriko.fun/post/202306241826026.png)
+![logo](https://image.cheriko.cafe/post/202306241826026.png)
 
 [网易云歌单](https://music.163.com/playlist?id=7688309976)
 
@@ -349,7 +349,7 @@ US Dubstep显然属于US Bass体系
 
 #### Oliverse
 
-![logo](https://image.cheriko.fun/post/202306241826030.png)
+![logo](https://image.cheriko.cafe/post/202306241826030.png)
 
 [网易云歌单](https://music.163.com/playlist?id=7279474970)
 
@@ -361,7 +361,7 @@ US Dubstep显然属于US Bass体系
 
 #### Terravita
 
-![logo](https://image.cheriko.fun/post/202306241826038.png)
+![logo](https://image.cheriko.cafe/post/202306241826038.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8481426062)
 
@@ -371,7 +371,7 @@ US Dubstep显然属于US Bass体系
 
 #### Chibs
 
-![logo](https://image.cheriko.fun/post/202306241826016.png)
+![logo](https://image.cheriko.cafe/post/202306241826016.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8485754260)
 
@@ -381,7 +381,7 @@ US Dubstep显然属于US Bass体系
 
 #### Bandlez
 
-![logo](https://image.cheriko.fun/post/202306241826013.png)
+![logo](https://image.cheriko.cafe/post/202306241826013.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8477150916)
 
@@ -393,7 +393,7 @@ US Dubstep显然属于US Bass体系
 
 #### Dirtyphonics
 
-![logo](https://image.cheriko.fun/post/202306241826018.png)
+![logo](https://image.cheriko.cafe/post/202306241826018.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8478077916)
 
@@ -403,7 +403,7 @@ US Dubstep显然属于US Bass体系
 
 #### Samplifire
 
-![logo](https://image.cheriko.fun/post/202306241826041.png)
+![logo](https://image.cheriko.cafe/post/202306241826041.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8480625862)
 
@@ -415,7 +415,7 @@ US Dubstep显然属于US Bass体系
 
 #### ECRAZE
 
-![logo](https://image.cheriko.fun/post/202306241826020.png)
+![logo](https://image.cheriko.cafe/post/202306241826020.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8478895572)
 
@@ -425,7 +425,7 @@ US Dubstep显然属于US Bass体系
 
 #### Graphyt
 
-![logo](https://image.cheriko.fun/post/202306241826023.png)
+![logo](https://image.cheriko.cafe/post/202306241826023.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8478898774)
 
@@ -435,7 +435,7 @@ US Dubstep显然属于US Bass体系
 
 #### Ray Volpe
 
-![logo](https://image.cheriko.fun/post/202306241826036.png)
+![logo](https://image.cheriko.cafe/post/202306241826036.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8492443619)
 
@@ -446,7 +446,7 @@ US Dubstep显然属于US Bass体系
 
 #### Bainbridge
 
-![logo](https://image.cheriko.fun/post/202306241826011.png)
+![logo](https://image.cheriko.cafe/post/202306241826011.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8477026556)
 
@@ -455,7 +455,7 @@ US Dubstep显然属于US Bass体系
 
 #### beastboi.
 
-![logo](https://image.cheriko.fun/post/202306241826015.png)
+![logo](https://image.cheriko.cafe/post/202306241826015.png)
 
 [网易云歌单](https://music.163.com/playlist?id=8477592360)
 
