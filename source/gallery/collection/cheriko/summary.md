@@ -3,7 +3,7 @@ title: 社媒总结
 top_img: https://image.cheriko.cafe/post/202405141244607.jpg
 ---
 
-玩社媒玩多了社媒总给我丢一些奇怪的总结
+玩社媒玩多了社媒总给我丢一些奇怪的总结（
 
 {% gallery true,220,10 %}
 ![](https://image.cheriko.cafe/post/202405141606449.jpg)
