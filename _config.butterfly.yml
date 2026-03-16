@@ -32,7 +32,7 @@ menu:
     # 笔记: /notes/ || iconfont icon-bijiben
   链接|| fas fa-link:
     朋友: /link/friends/ || fas fa-user-group
-    网站: /link/websites? || iconfont icon-website
+    网站: /link/websites/ || iconfont icon-website
   关于: /about/ || iconfont icon-icons-cherry
     # 本站: /about/site || iconfont icon-website_fill
     # 站主: /about/cheriko || fas fa-circle-user
